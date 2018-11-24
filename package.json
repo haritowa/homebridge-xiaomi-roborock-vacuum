@@ -23,6 +23,6 @@
     "homebridge": ">=0.4.1"
   },
   "dependencies": {
-    "miio": "git://github.com/nicoh88/miio.git#master"
+    "miio": ">=0.15.6"
   }
 }
